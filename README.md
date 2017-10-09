@@ -1,4 +1,5 @@
 Project HungryKya
+
 Team: Payal , Meng, Tristan
 
 The idea of the project is to help the user find food to eat and in a fast manner. The app can also save the users earlier choice to 
